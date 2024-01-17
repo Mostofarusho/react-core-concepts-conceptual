@@ -5,7 +5,7 @@ import Price from './Price';
 
 const Card = () => {
     return (
-        <div>
+        <div className='bg-error'>
             <Image/>
             <Title/>
             <Price/>
